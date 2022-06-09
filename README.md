@@ -1,4 +1,4 @@
-**Hey i'm @Flinti07 and interested in Technology and Science, especially computer science. I love open source and thats one of the reasons why i'm using Linux as my daily driver. Currently i'm leaning Programming and Linux, but other things like Docker too.**
+**Hey i'm @Flinti07 and interested in Technology and Science, especially computer science. I love open source and thats one of the reasons why i'm using Linux as my daily driver. Currently i'm leaning (besides school)  Programming and Linux, but other things like Docker too.**
 
 
 <!---
