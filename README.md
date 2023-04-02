@@ -1,1 +1,3 @@
-**Hey i'm Flinti07 and interested in Technology and Science, especially computer science. I love open source and thats one of the reasons why i'm using Linux as my daily driver. Currently i'm learning Programming and Linux (besides school) , but other things like Docker too.**
+I'm Flinti07 and interested in technology and science, especially computer science. I really like the idea of Open Source Software, which is the reason why i am learning programming at this time. 
+
+My favorite OS is Linux 🐧
