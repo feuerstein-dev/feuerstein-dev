@@ -1,16 +1,19 @@
-![](https://komarev.com/ghpvc/?username=feuersteinium&color=blueviolet&style=for-the-badge)  
 ## Intro
-I'm **Niklas**, a student from Germany and interested in all kinds of STEM, especially computer science. 
+Hey 👋, I'm Niklas, a 17 year old student from Germany interested in technology, science and politics and the motivation of contributing to the public (mostly not on Github). 
 
-I really like the concept of Open Source Software and therefore want to contribute to it, when my skills are on a certain level.
+I'm a big fan of selfhosting some stuff, coding and running my Linux system (currently I'm on NixOS) since I first started with Linux in the age of 14. 
 
-If you want to know more feel free to visit [my website](https://feuerstein.dev) (which isn't pretty useful at the moment as it's under development)
+My projects are changing from time to time, but you can visit my [Website](https://feuerstein.dev) or [Mastodon Account](https://mastodon.de/@feuerstein) to stay up-to-date. Currently I'm learning Rust in combination with Web Development as the Web is my platform of choice. 
 
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=feuersteinium&theme=gruvbox&show_icons=true&hide_border=true)
-![](https://streak-stats.demolab.com?user=feuersteinium&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feuersteinium&layout=compact&theme=gruvbox&hide_border=true)
+<details>  
+<summary>
+Get some Github stats here 📊
+</summary>
 
+![](https://github-readme-stats.vercel.app/api?username=feuersteinium&theme=gruvbox&show_icons=true&hide_border=true)  
+![](https://streak-stats.demolab.com?user=feuersteinium&theme=gruvbox&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feuersteinium&layout=compact&theme=gruvbox&hide_border=true)  
+</details>
 
 ## Languages/Technology
 
