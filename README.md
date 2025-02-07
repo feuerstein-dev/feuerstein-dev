@@ -1,7 +1,7 @@
 ## Intro
-Hey 👋, I'm Niklas, a 17 year old student from Germany interested in technology, science and politics and with the motivation of contributing to the public (mostly not on Github). 
+Hey 👋, I'm Niklas a 17 year old student from Germany interested in technology, science and politics carrying the motivation of contributing to the public (mostly not on Github). 
 
-I'm a big fan of selfhosting some stuff, coding and running my Linux system (currently I'm on NixOS) since I first started with Linux in the age of 14. 
+I'm a big fan of selfhosting software, coding and running my Linux system (currently I'm on NixOS) since I first started with Linux in the age of 14. 
 
 My projects are changing from time to time, but you can visit my [Website](https://feuerstein.dev) or [Mastodon Account](https://mastodon.de/@feuerstein) to stay up-to-date. Currently I'm learning Rust in combination with Web Development as the Web is my platform of choice. 
 
