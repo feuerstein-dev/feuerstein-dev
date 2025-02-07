@@ -1,5 +1,5 @@
 ## Intro
-Hey 👋, I'm Niklas a 17 year old student from Germany interested in technology, science and politics carrying the motivation of contributing to the public (mostly not on Github). 
+Hey 👋, I'm Niklas a 17 year old student from Germany interested in technology, science and politics, carrying the motivation of contributing to the public (mostly not on Github). 
 
 I'm a big fan of selfhosting software, coding and running my Linux system (currently I'm on NixOS) since I first started with Linux in the age of 14. 
 
